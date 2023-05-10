@@ -28,8 +28,12 @@
     "server.js"
   ],
   "dependencies": {
+    "dotenv": "^16.0.3",
     "http-proxy": "1.11.1",
-    "proxy-from-env": "0.0.1"
+    "nvm": "^0.0.4",
+    "pm2": "^5.2.2",
+    "proxy-from-env": "0.0.1",
+    "winston": "^3.8.2"
   },
   "devDependencies": {
     "coveralls": "^2.11.6",
